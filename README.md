@@ -6,7 +6,7 @@ tkinter https://docs.python.org/3/library/tkinter.html
 Pytube https://pytube.io/en/latest/user/install.html
 
 # NOTICE
-This code is copyright of rakshitdogra. Don't try to claim or steal the code for own projects. Stealing and claiming code is strictly prohibited.
+This code is copyright of rakshitdogra. Don't try to claim or steal the code for own projects. You can Modify or Redistribute the program. Stealing and claiming code is strictly prohibited.
 Copyright (c) 2022 rakshitdogra
 
 [![MIT](https://img.shields.io/github/license/rakshitdogra/yt-video-downloader)](https://github.com/rakshitdogra/yt-video-downloader/blob/main/LICENSE)
