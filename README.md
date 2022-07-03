@@ -1,9 +1,14 @@
-# yt-video-downloader
+  # Yt-video-downloader
 GUI based YT video downloader using Pytube and tkinter. 
 
-tkinter https://docs.python.org/3/library/tkinter.html
+# Dependencies
+```bash
+   pip install youtube_dl
+   pip install pytube3
+   python -m pip install --upgrade pytube
+   python -m pip install --upgrade youtube_dl
+```
 
-Pytube https://pytube.io/en/latest/user/install.html
 
 # NOTICE
 This code is copyright of rakshitdogra. You can Modify or Distribute the program. Don't try to claim or steal the code for own projects. Stealing and claiming code is strictly prohibited.
